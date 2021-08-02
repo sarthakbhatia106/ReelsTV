@@ -1,0 +1,10 @@
+.vid-post{
+    height: 10%;
+    width: 18%;
+    margin: 3%;
+}
+.actual-post{
+    width:100%; 
+    border-radius:10px;
+    z-index: 1;
+}
